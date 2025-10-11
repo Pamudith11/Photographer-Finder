@@ -147,9 +147,9 @@ Contributions are welcome!
 
 ## 🧑‍💻 Author
 
-**[Your Name]**
-📧 [[your.email@example.com](pamudith11@gmail.com)]
-🌐 [your-portfolio-link.com]
-💼 GitHub: [@yourusername](https://github.com/pamudith11)
+**[PamudithSamaranatha]**
+📧 (pamudith11@gmail.com)]
+🌐 (https://pamudithsamaranatha.netlify.app/)
+💼 GitHub: [@pamudith11](https://github.com/pamudith11)
 
 ---
